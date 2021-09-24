@@ -36,7 +36,7 @@ Si alguien prefiere trbajar con una herramienta más sencilla que Pytorch una bu
 
 * Stevens, E., Antiga, L. (2019). [Deep Learning with Pytorch](pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf). Manning.
 * Zhang, A., Lipton, Z. C., Li, M., Smola A. J.(2020). [Dive into Deep Learning](https://d2l.ai).IA.
-* Thuerey, N., Hol, P., Mueller M., Schnell, P., Trost, F., Um, K. (2021).[Physics-based Deep Learning](https://physicsbaseddeeplearning.org). WWW.
+* Thuerey, N., Hol, P., Mueller M., Schnell, P., Trost, F., Um, K. (2021). [Physics-based Deep Learning](https://physicsbaseddeeplearning.org). WWW.
 * Dawani, Jay. (2020). Hands-On Mathematics for Deep Learning. Packt Publishing
 * François Chollet. (2018). [Deep Learning with Python](https://tanthiamhuat.files.wordpress.com/2018/03/deeplearningwithpython.pdf). Manning.
 * Bishop, Christopher M. (2006). [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf). Springer.
