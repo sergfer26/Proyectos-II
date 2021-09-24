@@ -1,9 +1,11 @@
 # Proyectos II
 *Introducción a las redes neuronales y el aprendizaje profundo*
 
-Aquí estaremos principalmente subiendo todos los códigos y herramientas de software que usaremos durante el curso
+Aquí estaremos principalmente subiendo todos los códigos y herramientas de software que usaremos durante el curso.
 
-* Semana 1: Paradigams de aprendizaje, Perceptrón, introducción a Pytorch.
+## Bitácora
+
+* Semana 1: Paradigamas de aprendizaje, perceptrón e introducción a Pytorch.
 
 ## Software
 Ocuparemos Python3 para los códigos que haremos, salvo que lo mencionemos, sugiero instalar la **versión 3.9.7**. A continuación dejo la las bibliotecas que estaremos usando:
