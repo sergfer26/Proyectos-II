@@ -3,7 +3,7 @@
 
 Aquí estaremos principalmente subiendo todos los códigos y herramientas de software que usaremos durante el curso
 
-* Semana 1: Paradigams de aprendizaje, Perceptrón, introducción a Pytorch.
+* Semana 1: Paradigmas de aprendizaje, Perceptrón, introducción a Pytorch.
 
 ## Software
 Ocuparemos Python3 para los códigos que haremos, salvo que lo mencionemos, sugiero instalar la **versión 3.9.7**. A continuación dejo la las bibliotecas que estaremos usando:
