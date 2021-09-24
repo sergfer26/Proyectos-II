@@ -30,7 +30,7 @@ Para la parte práctica recomendamos revisar los libros de autores Stevens y Zha
 
 Para profundizar en aspectos teóricos de las redes neuronales y *machine learning* es buena opción empezar con el Bishop. El de autor Dawani esta muy condensado, pero introduce a DL desde una perspectiva matemática, tiene muy buena notación y menciona los temas antecedentes, es bastante intuitivo para los que tenemos formación matemática. El Goodfellow es un poco más pesado de leer, pero también aborda bastantes temas interesantes para el área.
 
-El curso [DEEP LEARNING] de Yann LeCun y Alfredo Canziani también se ve muy completo.
+El curso [DEEP LEARNING](https://atcold.github.io/pytorch-Deep-Learning/) de Yann LeCun y Alfredo Canziani también se ve muy completo.
 
 Si alguien prefiere trbajar con una herramienta más sencilla que Pytorch una buena opción es Keras y en ese caso recomiendo seguir el libro de Chollet. No vienen muchas matemáticas, pero la parte práctica esta muy completa.
 
