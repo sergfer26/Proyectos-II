@@ -1,7 +1,7 @@
 # Proyectos II
 *Introducción a las redes neuronales y el aprendizaje profundo*
 
-Aquí estaremos subiendo principalmente todos los códigos y herramientas de software que usaremos durante el curso
+Aquí estaremos subiendo principalmente todos los códigos y herramientas de software que usaremos durante el curso.
 
 * Semana 1: Paradigmas de aprendizaje, Perceptrón, introducción a Pytorch.
 
