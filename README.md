@@ -44,7 +44,7 @@ Si alguien prefiere trabajar con una herramienta más sencilla que Pytorch una b
 * Deisenroth, M. P., Faisal, A. A., Ong, C. S. (2020). [*Mathematics for Machine Learning*](https://mml-book.github.io/book/mml-book.pdf)
 * Bishop, Christopher M. (2006). [*Pattern Recognition and Machine Learning*](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf). Springer.
 
-### Matemáticas para Deep Learning
+### Matemáticas para *deep learning*:
 * Dawani, Jay. (2020). *Hands-On Mathematics for Deep Learning*. Packt Publishing
 * Goodfellow, I., Bengio, Y., and Courville A. (2016). [*Deep Learning*](www.deeplearningbook.org). MIT Press().
 * Zhang, A., Lipton, Z. C., Li, M., Smola A. J.(2020). [*Dive into Deep Learning*](https://d2l.ai).IA.
@@ -52,7 +52,7 @@ Si alguien prefiere trabajar con una herramienta más sencilla que Pytorch una b
 ### Keras
 * François Chollet. (2018). [*Deep Learning with Python*](https://tanthiamhuat.files.wordpress.com/2018/03/deeplearningwithpython.pdf). Manning.
 
-### Physics-based Deep Learning
+### Physics-based Deep Learning:
 * Thuerey, N., Hol, P., Mueller M., Schnell, P., Trost, F., Um, K. (2021). [*Physics-based Deep Learning*](https://physicsbaseddeeplearning.org). WWW.
 
 
