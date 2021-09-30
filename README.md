@@ -37,7 +37,7 @@ El curso [DEEP LEARNING](https://atcold.github.io/pytorch-Deep-Learning/) de **Y
 Si alguien prefiere trabajar con una herramienta más sencilla que Pytorch una buena opción es Keras y en ese caso recomiendo seguir el libro de **Chollet**. No vienen muchas matemáticas, pero la parte práctica esta muy completa.
 
 ### Pytorch:
-* Stevens, E., Antiga, L. (2019). [*Deep Learning with Pytorch*](pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf). Manning.
+* Stevens, E., Antiga, L. (2019). [*Deep Learning with Pytorch*](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf). Manning.
 * Zhang, A., Lipton, Z. C., Li, M., Smola A. J.(2020). [*Dive into Deep Learning*](https://d2l.ai).IA.
 
 ### Matemáticas para *machine learning*:
@@ -46,7 +46,7 @@ Si alguien prefiere trabajar con una herramienta más sencilla que Pytorch una b
 
 ### Matemáticas para *deep learning*:
 * Dawani, Jay. (2020). *Hands-On Mathematics for Deep Learning*. Packt Publishing
-* Goodfellow, I., Bengio, Y., and Courville A. (2016). [*Deep Learning*](www.deeplearningbook.org). MIT Press().
+* Goodfellow, I., Bengio, Y., and Courville A. (2016). [*Deep Learning*](https://www.deeplearningbook.org). MIT Press().
 * Zhang, A., Lipton, Z. C., Li, M., Smola A. J.(2020). [*Dive into Deep Learning*](https://d2l.ai).IA.
 
 ### Keras
