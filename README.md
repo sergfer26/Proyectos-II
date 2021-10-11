@@ -5,7 +5,19 @@ Aquí estaremos principalmente subiendo todos los códigos y herramientas de sof
 
 ## Bitácora
 
-* Semana 1: Paradigamas de aprendizaje, perceptrón e introducción a Pytorch.
+* Semana 1 (Antecedentes): Paradigamas de aprendizaje, perceptrón e introducción a Pytorch.
+* Semana 2 (Introducción a las redes neuronales artificiales): 
+  * Redes neuronales completamente conectadas unidireccionales.
+  * Comentario de teorema de aproximación universal.
+  * Propagación hacia adelante (*forward pass*)
+  * Comentario de propagación de errores hacia atrás (*backpropagation*)
+  * *Batch* vs *Stochastic* vs *Mini-batch*-.
+  * Función objetivo.
+  * Primer ejemplo de clasificación multiclase en pytorch (primera parte).
+* Semana 3 (Algoritmos de optimización):
+  * Lunes 3 de octubre: Primer ejemplo de clasificación multiclase en pytorch (segunda parte).
+  * Miércoles 5 de octubre: *Momentum*, *Adagrad* y *Adadelta*.
+  * Viernes 7 de octubre: *RMSProp*, *Adam*
 
 ## Software
 Ocuparemos Python3 para los códigos que haremos, salvo que lo mencionemos, sugiero instalar la **versión 3.9.7**. A continuación dejo la las bibliotecas que estaremos usando:
