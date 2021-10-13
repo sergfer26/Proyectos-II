@@ -17,7 +17,7 @@ Aquí estaremos principalmente subiendo todos los códigos y herramientas de sof
 * Semana 3 (Algoritmos de optimización):
   * Lunes 4 de octubre: Primer ejemplo de clasificación multiclase en pytorch (segunda parte).
   * Miércoles 6 de octubre: *Momentum*, *Adagrad* y *Adadelta*.
-  * Viernes 8 de octubre: *RMSProp*, *Adam*
+  * Viernes 8 de octubre: *RMSProp*, *Adam* y *Nesterov* (semana 4).
 * Semana 4 (Regularización de redes):
   * Lunes 11 de octubre: *Capicity* (Flexibilidad del modelo), *Underfitting vs Overfitting*.
   * Miércoles 13 de octubre: Penalización de parámetros, regularización L2 (primera parte).
