@@ -1,12 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T17:20:03.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="U7K9p7XLcekwh-7bpKZ8" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T17:26:39.114Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="qTGz_i9V8ayAkzfGq2k6" version="15.5.2" type="github" pages="2">
   <diagram id="1dAo0NENplhRAQXMDqJG" name="Page-1">
-    <mxGraphModel dx="1172" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#4D4D4D" math="1" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Lfu0zCKfAV7_NRdeNe_3-4" value="$$X \sim \mathcal{N}(\mu, \sigma^2)$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="270" y="240" width="280" height="180" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="r7weiz83Eb4qLRYIPBb4" name="Page-2">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="TX4n1kVWCXdHo_RgApyX-0" />
+        <mxCell id="TX4n1kVWCXdHo_RgApyX-1" parent="TX4n1kVWCXdHo_RgApyX-0" />
       </root>
     </mxGraphModel>
   </diagram>
