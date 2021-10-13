@@ -15,9 +15,12 @@ Aquí estaremos principalmente subiendo todos los códigos y herramientas de sof
   * Función objetivo.
   * Primer ejemplo de clasificación multiclase en pytorch (primera parte).
 * Semana 3 (Algoritmos de optimización):
-  * Lunes 3 de octubre: Primer ejemplo de clasificación multiclase en pytorch (segunda parte).
-  * Miércoles 5 de octubre: *Momentum*, *Adagrad* y *Adadelta*.
-  * Viernes 7 de octubre: *RMSProp*, *Adam*
+  * Lunes 4 de octubre: Primer ejemplo de clasificación multiclase en pytorch (segunda parte).
+  * Miércoles 6 de octubre: *Momentum*, *Adagrad* y *Adadelta*.
+  * Viernes 8 de octubre: *RMSProp*, *Adam*
+* Semana 4 (Regularización de redes):
+  * Lunes 11 de octubre: *Capicity* (Flexibilidad del modelo), *Underfitting vs Overfitting*.
+  * Miércoles 13 de octubre: Penalización de parámetros, regularización L2 (primera parte).
 
 ## Software
 Ocuparemos Python3 para los códigos que haremos, salvo que lo mencionemos, sugiero instalar la **versión 3.9.7**. A continuación dejo la las bibliotecas que estaremos usando:
