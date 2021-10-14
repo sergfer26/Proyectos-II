@@ -30,6 +30,7 @@ Ocuparemos Python3 para los códigos que haremos, salvo que lo mencionemos, sugi
 * ``jupyter==1.0.0``
 * ``matplotlib==3.4.3``
 * ``torchvision==0.10.1``
+* ``tqdm==4.62.3``
 
 **Nota:** Esta lista se va a ir actualizando conforme avance el curso. La versión que aparece es la que estoy manejando - Sergio.
 
