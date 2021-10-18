@@ -11,7 +11,7 @@ Aquí estaremos principalmente subiendo todos los códigos y herramientas de sof
   * Comentario de teorema de aproximación universal.
   * Propagación hacia adelante (*forward pass*)
   * Comentario de propagación de errores hacia atrás (*backpropagation*)
-  * *Batch* vs *Stochastic* vs *Mini-batch*-.
+  * *Batch* vs *Stochastic* vs *Mini-batch*.
   * Función objetivo.
   * Primer ejemplo de clasificación multiclase en pytorch (primera parte).
 * Semana 3 (Algoritmos de optimización):
@@ -21,7 +21,10 @@ Aquí estaremos principalmente subiendo todos los códigos y herramientas de sof
 * Semana 4 (Regularización de redes):
   * Lunes 11 de octubre: *Capicity* (Flexibilidad del modelo), *Underfitting vs Overfitting*.
   * Miércoles 13 de octubre: Penalización de parámetros, regularización L2 (primera parte).
-
+  * Viernes 15 de octubre: Regularización (segunda parte), *Dropout*, ejemplo de regularización en pytorch.
+* Semana 5 (Redes convolucionales 2D [CNN 2D]):
+  * Lunes 18 de octubre: Introducción, representación de imágenes (RGB).   
+  
 ## Software
 Ocuparemos Python3 para los códigos que haremos, salvo que lo mencionemos, sugiero instalar la **versión 3.9.7**. A continuación dejo la las bibliotecas que estaremos usando:
 
