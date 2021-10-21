@@ -29,7 +29,6 @@ Aquí estaremos principalmente subiendo todos los códigos y herramientas de sof
 ## Software
 Ocuparemos Python3 para los códigos que haremos, salvo que lo mencionemos, sugiero instalar la **versión 3.9.7**. A continuación dejo la las bibliotecas que estaremos usando:
 
-* ``torchvison==0.10.0``
 * ``torch==1.9.0``
 * ``jupyter==1.0.0``
 * ``matplotlib==3.4.3``
