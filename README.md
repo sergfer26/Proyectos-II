@@ -24,12 +24,16 @@ Aquí estaremos principalmente subiendo todos los códigos y herramientas de sof
   * Viernes 15 de octubre: Regularización (segunda parte), *Dropout*, ejemplo de regularización en pytorch.
 * Semana 5 (Redes convolucionales 2D [CNN 2D]):
   * Lunes 18 de octubre: Motivación, representación de imágenes digitalizadas(RGB).  
-  * Miércoles 20 de octubre: Definición de capas convolucionales para imágenes con uno y C canales, ejemplos. 
+  * Miércoles 20 de octubre: Definición de capas convolucionales para imágenes con uno y C canales, ejemplos.
+  * Viernes 22 de octubre: *Padding, Stride*, operador *Pooling*, comentario sobre LeNet y clasificación de digitos usando LeNet.
+* Semana 6 (Redes convolucionales):
+  * Lunes 25 de octubre: Clasificación binaria *dogs vs cats* en Pytorch.
+  * Miércoles 27 de octubre: Regularización de CNNs (*Transfer learning*, *Data augmentation*), congelamiento de capas y *fine tuning*.
+  * Viernes 29 de octubre: Ejemplo de redes convolucionales en 1D, *batch normalization*  
   
 ## Software
 Ocuparemos Python3 para los códigos que haremos, salvo que lo mencionemos, sugiero instalar la **versión 3.9.7**. A continuación dejo la las bibliotecas que estaremos usando:
 
-* ``torchvison==0.10.0``
 * ``torch==1.9.0``
 * ``jupyter==1.0.0``
 * ``matplotlib==3.4.3``
