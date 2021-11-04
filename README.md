@@ -30,7 +30,7 @@ Aquí estaremos principalmente subiendo todos los códigos y herramientas de sof
   * Lunes 25 de octubre: Clasificación binaria *dogs vs cats* en Pytorch.
   * Miércoles 27 de octubre: Regularización de CNNs (*Transfer learning*, *Data augmentation*), congelamiento de capas y *fine tuning*.
   * Viernes 29 de octubre: Ejemplo de redes convolucionales en 1D, *batch normalization*
-* Semana 7 (Redes recurrentes).
+* Semana 7 (Redes recurrentes [RNN]).
   * Miércoles 3 de noviembre: Motivación, datos secuenciales, arquitectura: *input*, *output*, *hidden unit*; tipos de flujo de información. 
 * Semana 8 (Exposiciones parte I).
   * Miércoles 10 de noviembre (Hendrix): Introducción al aprendizaje por refuerzo.
