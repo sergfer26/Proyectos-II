@@ -37,7 +37,8 @@ Paradigamas de aprendizaje, perceptrón e introducción a Pytorch.
   * Miércoles 10 de noviembre (Hendrix): Introducción al aprendizaje por refuerzo.
   * Viernes 12 de noviembre (Montserrat): Autoencoders & ClusterNet.
 ### Semana 9 (Exposiciones parte II).
-  * Miércoles 17 de noviembre (Raúl): ResNet.     
+  * Miércoles 17 de noviembre (Raúl): ResNet.
+  * Viernes 19 de noviembre (Ivana): Bidirectional RNNs & *Gated recurrent units*.    
   
 ## Software
 Ocuparemos Python3 para los códigos que haremos, salvo que lo mencionemos, sugiero instalar la **versión 3.9.7**. A continuación dejo la las bibliotecas que estaremos usando:
