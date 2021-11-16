@@ -5,8 +5,9 @@ Aquí estaremos principalmente subiendo todos los códigos y herramientas de sof
 
 ## Bitácora
 
-* Semana 1 (Antecedentes): Paradigamas de aprendizaje, perceptrón e introducción a Pytorch.
-* Semana 2 (Introducción a las redes neuronales artificiales): 
+### Semana 1 (Antecedentes).
+Paradigamas de aprendizaje, perceptrón e introducción a Pytorch.
+### Semana 2 (Introducción a las redes neuronales artificiales). 
   * Redes neuronales completamente conectadas unidireccionales.
   * Comentario de teorema de aproximación universal.
   * Propagación hacia adelante (*forward pass*)
@@ -14,22 +15,30 @@ Aquí estaremos principalmente subiendo todos los códigos y herramientas de sof
   * *Batch* vs *Stochastic* vs *Mini-batch*.
   * Función objetivo.
   * Primer ejemplo de clasificación multiclase en pytorch (primera parte).
-* Semana 3 (Algoritmos de optimización):
+### Semana 3 (Algoritmos de optimización).
   * Lunes 4 de octubre: Primer ejemplo de clasificación multiclase en pytorch (segunda parte).
   * Miércoles 6 de octubre: *Momentum*, *Adagrad* y *Adadelta*.
   * Viernes 8 de octubre: *RMSProp*, *Adam* y *Nesterov* (semana 4).
-* Semana 4 (Regularización de redes):
+### Semana 4 (Regularización de redes).
   * Lunes 11 de octubre: *Capicity* (Flexibilidad del modelo), *Underfitting vs Overfitting*.
   * Miércoles 13 de octubre: Penalización de parámetros, regularización L^2 (primera parte).
   * Viernes 15 de octubre: Regularización (segunda parte), *Dropout*, ejemplo de regularización en pytorch.
-* Semana 5 (Redes convolucionales 2D [CNN 2D]):
+### Semana 5 (Redes convolucionales 2D [CNN 2D]).
   * Lunes 18 de octubre: Motivación, representación de imágenes digitalizadas(RGB).  
   * Miércoles 20 de octubre: Definición de capas convolucionales para imágenes con uno y C canales, ejemplos.
   * Viernes 22 de octubre: *Padding, Stride*, operador *Pooling*, comentario sobre LeNet y clasificación de digitos usando LeNet.
-* Semana 6 (Redes convolucionales):
+### Semana 6 (Redes convolucionales).
   * Lunes 25 de octubre: Clasificación binaria *dogs vs cats* en Pytorch.
   * Miércoles 27 de octubre: Regularización de CNNs (*Transfer learning*, *Data augmentation*), congelamiento de capas y *fine tuning*.
-  * Viernes 29 de octubre: Ejemplo de redes convolucionales en 1D, *batch normalization*  
+  * Viernes 29 de octubre: Ejemplo de redes convolucionales en 1D, *batch normalization*
+### Semana 7 (Redes recurrentes [RNN]).
+  * Miércoles 3 de noviembre: Motivación, datos secuenciales, arquitectura: *input*, *output*, *hidden unit*; tipos de flujo de información. 
+### Semana 8 (Exposiciones parte I).
+  * Miércoles 10 de noviembre (Hendrix): Introducción al aprendizaje por refuerzo.
+  * Viernes 12 de noviembre (Montserrat): Autoencoders & ClusterNet.
+### Semana 9 (Exposiciones parte II).
+  * Miércoles 17 de noviembre (Raúl): ResNet.
+  * Viernes 19 de noviembre (Ivana): Bidirectional RNNs & *Gated recurrent units*.    
   
 ## Software
 Ocuparemos Python3 para los códigos que haremos, salvo que lo mencionemos, sugiero instalar la **versión 3.9.7**. A continuación dejo la las bibliotecas que estaremos usando:
