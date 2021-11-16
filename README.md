@@ -38,7 +38,14 @@ Paradigamas de aprendizaje, perceptrón e introducción a Pytorch.
   * Viernes 12 de noviembre (Montserrat): Autoencoders & ClusterNet.
 ### Semana 9 (Exposiciones parte II).
   * Miércoles 17 de noviembre (Raúl): ResNet.
-  * Viernes 19 de noviembre (Ivana): Bidirectional RNNs & *Gated recurrent units*.    
+  * Viernes 19 de noviembre (Ivana): *Bidirectional* RNNs & *Gated recurrent units*. 
+### Semana 10 (Exposiciones parte III).
+  * Lunes 22 de noviembre (Pendiente): *Backpropagation through time*
+  * Miércoles 24 de noviembre (Pendiente): *Deep Q-Networks*
+  * Viernes 26 de noviembre (Daniel): *Denoising Autoencoders*
+### Semana 11 (Exposiciones parte IV).
+  * Lunes 29 de noviembre (Diego): Pendiente.
+
   
 ## Software
 Ocuparemos Python3 para los códigos que haremos, salvo que lo mencionemos, sugiero instalar la **versión 3.9.7**. A continuación dejo la las bibliotecas que estaremos usando:
