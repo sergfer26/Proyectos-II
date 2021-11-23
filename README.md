@@ -20,7 +20,7 @@ Paradigamas de aprendizaje, perceptrón e introducción a Pytorch.
   * Miércoles 6 de octubre: *Momentum*, *Adagrad* y *Adadelta*.
   * Viernes 8 de octubre: *RMSProp*, *Adam* y *Nesterov* (semana 4).
 ### Semana 4 (Regularización de redes).
-  * Lunes 11 de octubre: *Capicity* (Flexibilidad del modelo), *Underfitting vs Overfitting*.
+  * Lunes 11 de octubre: *Capacity* (Flexibilidad del modelo), *Underfitting vs Overfitting*.
   * Miércoles 13 de octubre: Penalización de parámetros, regularización L^2 (primera parte).
   * Viernes 15 de octubre: Regularización (segunda parte), *Dropout*, ejemplo de regularización en pytorch.
 ### Semana 5 (Redes convolucionales 2D [CNN 2D]).
@@ -44,8 +44,12 @@ Paradigamas de aprendizaje, perceptrón e introducción a Pytorch.
   * Miércoles 24 de noviembre (Pendiente): *Deep Q-Networks*
   * Viernes 26 de noviembre (Daniel): *Denoising Autoencoders*
 ### Semana 11 (Exposiciones parte IV).
-  * Lunes 29 de noviembre (Diego): Pendiente.
-
+  * Lunes 29 de noviembre (Diego): Deep Q-Networks.
+  * Miércoles 1 de diciembre (Roberto): Pendiente
+  * Viernes 3 de diciembre (Jorge): *Backpropagation through time* (BPTT).
+### Semana 12 (Exposiciones parte V)
+  * Lunes 6 de diciembre (Itzel): Introducción a la redes generativas antagónicas (GANs).
+  * Miércoles 8 de diciembre: Inicio de asesorías para desarrollar el trabajo final.
   
 ## Software
 Ocuparemos Python3 para los códigos que haremos, salvo que lo mencionemos, sugiero instalar la **versión 3.9.7**. A continuación dejo la las bibliotecas que estaremos usando:
