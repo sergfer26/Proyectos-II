@@ -32,7 +32,8 @@ Paradigamas de aprendizaje, perceptrón e introducción a Pytorch.
   * Miércoles 27 de octubre: Regularización de CNNs (*Transfer learning*, *Data augmentation*), congelamiento de capas y *fine tuning*.
   * Viernes 29 de octubre: Ejemplo de redes convolucionales en 1D, *batch normalization*
 ### Semana 7 (Redes recurrentes [RNN]).
-  * Miércoles 3 de noviembre: Motivación, datos secuenciales, arquitectura: *input*, *output*, *hidden unit*; tipos de flujo de información. 
+  * Miércoles 3 de noviembre: Motivación, datos secuenciales, arquitectura: *input*, *output*, *hidden unit*; tipos de flujo de información.
+  * Viernes 5 de noviembre: Unidad *Long short term memory*. 
 ### Semana 8 (Exposiciones parte I).
   * Miércoles 10 de noviembre (Hendrix): Introducción al aprendizaje por refuerzo.
   * Viernes 12 de noviembre (Montserrat): Autoencoders & ClusterNet.
