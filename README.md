@@ -35,14 +35,16 @@ Paradigamas de aprendizaje, perceptrón e introducción a Pytorch.
   * Miércoles 3 de noviembre: Motivación, datos secuenciales, arquitectura: *input*, *output*, *hidden unit*; tipos de flujo de información.
   * Viernes 5 de noviembre: Unidad *Long short term memory*. 
 ### Semana 8 (Exposiciones parte I).
+  * Lunes 8 de noviembre: Predicción de palabras usando LSTM e incrustres (parte I).
   * Miércoles 10 de noviembre (Hendrix): Introducción al aprendizaje por refuerzo.
   * Viernes 12 de noviembre (Montserrat): Autoencoders & ClusterNet.
 ### Semana 9 (Exposiciones parte II).
   * Miércoles 17 de noviembre (Raúl): ResNet.
   * Viernes 19 de noviembre (Ivana): *Bidirectional* RNNs & *Gated recurrent units*. 
 ### Semana 10 (Exposiciones parte III).
-  * Lunes 22 de noviembre (Pendiente): *Backpropagation through time*
-  * Miércoles 24 de noviembre (Pendiente): *Deep Q-Networks*
+  * Lunes 22 de noviembre: Predicción de palabras usando LSTM e incrustres (parte II).
+  * Miércoles 24 de noviembre (Carmen): Modelos secuencia a secuencia, arquitectura
+codificador y decodificador.
   * Viernes 26 de noviembre (Daniel): *Denoising Autoencoders*
 ### Semana 11 (Exposiciones parte IV).
   * Lunes 29 de noviembre (Diego): Deep Q-Networks.
